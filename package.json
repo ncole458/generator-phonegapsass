@@ -1,0 +1,44 @@
+{
+  "name": "generator-phonegapsass",
+  "version": "1.0.0",
+  "description": "PhoneGap Sass Generator for Yeoman",
+  "keywords": [
+    "yeoman-generator", "phonegap", "wp8", "ios", "android"
+  ],
+  "homepage": "https://github.com/ncole458/generator-phonegapsass",
+  "bugs": "https://github.com/ncole458/generator-phonegapsass/issues",
+  "author": {
+    "name": "Nicholas Cole",
+    "email": "nick@hitori-inc.com",
+    "url": "https://github.com/ncole458"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ncole458/generator-phonegapsass.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.18.10",
+    "phonegap": "~5.0.0-0.28.1",
+	"extended-fs": "~0.3.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.4.8",
+	"generator-mocha": "~0.1.6"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=2.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
