@@ -1,6 +1,6 @@
 # generator-phonegapsass 
 
-Yeoman generator for an automated PhoneGap (with Sass) project and build. Uses [grunt-phonegap](https://npmjs.org/package/grunt-phonegap) to automate platform builds and performs basic optimization tasks relevant for PhoneGap projects. Built from [generator-phonegap](https://github.com/hypermurea/generator-phonegap).
+Yeoman generator for an automated Cordova/PhoneGap (with Sass) project and build. Uses [grunt-phonegap](https://npmjs.org/package/grunt-phonegap) to automate platform builds and performs basic optimization tasks relevant for PhoneGap projects. Built from [generator-phonegap](https://github.com/hypermurea/generator-phonegap).
 
 We use this generator @ [Hitori](https://hitori-inc.com) so will do my best to keep this maintained.
 
